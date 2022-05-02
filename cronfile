@@ -1,0 +1,2 @@
+# Check network download speed
+*/30 * * * *	/bin/bash /home/pi/rasp-aux-scripts/network/networkSpeedTest.sh
